@@ -1,0 +1,11 @@
+{
+   "workbench.editor.labelFormat": "short",
+   "typescript.validate.enable": true,
+   "typescript.tsdk": "node_modules/typescript/lib",
+   "typescript.disableAutomaticTypeAcquisition": true,
+   "editor.formatOnSave": true,
+   "editor.tabSize": 3,
+   "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+   }
+}
